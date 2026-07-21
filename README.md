@@ -6,7 +6,7 @@
  <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=200&section=header&text=ARMANDO%20ESPINOSA&fontSize=44&fontColor=ffffff&desc=I.T.%20Administrator%20%7C%20Developer&descAlignY=62&descSize=16&descColor=cccccc" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4500&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&height=40&lines=%22I+am+a+bird+in+search+of+a+cage%22+-+Kafka;%22Do+not+pray+for+an+easy+life%2C+pray+for+the+strength+to+endure+a+difficult+one%22+-+Bruce+Lee" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4500&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&height=40&lines=%22I+am+a+bird+in+search+of+a+cage%22+-+Kafka;%22Confine+yourself+to+the+present%22+-+Marcus+Aurelius;%22Nothing+beautiful+without+struggle%22+-+Plato;%22Well+begun+is+half+done%22+-+Aristotle;%22It+is+the+power+of+the+mind+to+be+unconquerable%22+-+Seneca" />
 
 <p align="center">
   <a href="mailto:devespinosa1214@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
