@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: DevEpisolon
           outputs: |
-            dist/snake.gif?color_snake=%23ff4fd8&color_dots=0,#0a0a2a,#1a1a4a,#2d2d7a,#4b4bb5,#ff4fd8
+            dist/snake.gif?color_snake=%23ff4fd8&color_dots=%2312121f,%2389cff0,%237ec8e3,%236ec6ea,%235bc0eb&color_background=%2305050f
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
