@@ -50,23 +50,8 @@
 
 ---
 
-### `// STATS`
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevEpisolon&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEpisolon&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEpisolon&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</p>
-
----
-
-### `// CONTRIBUTION SNAKE`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevEpisolon/DevEpisolon/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/DevEpisolon/DevEpisolon/output/snake.gif" width="100%" />
 </p>
 
 ---
