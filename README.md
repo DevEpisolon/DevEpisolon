@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://github.com/DevEpisolon/DevEpisolon/blob/main/output.gif) width="320" alt="clip" />
+  <img src="output.gif" width="320" alt="clip" />
 </p>
 
 <p align="center">🌀🌀🌀</p>
