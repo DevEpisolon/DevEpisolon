@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=200&section=header&text=ARMANDO%20ESPINOSA&fontSize=44&fontColor=ffffff&desc=IT%20Administrator%20%7C%20IT%20Support%20%7C%20CS%20Grad&descAlignY=62&descSize=16&descColor=cccccc" />
+  <img src="output.gif" width="560" alt="clip" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=3500&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=560&lines=something+is+always+watching+the+network...;firewalls+up.+cameras+rolling.+don't+look+away.;IT+Coordinator+by+day%2C+debugger+by+night;the+logs+never+stop+scrolling" />
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=200&section=header&text=ARMANDO%20ESPINOSA&fontSize=44&fontColor=ffffff&desc=I.T.%20Administrator%20%7C%20Developer&descAlignY=62&descSize=16&descColor=cccccc" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4500&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&height=40&lines=%22I+am+a+bird+in+search+of+a+cage%22+-+Kafka;%22Do+not+pray+for+an+easy+life%2C+pray+for+the+strength+to+endure+a+difficult+one%22+-+Bruce+Lee" />
 
 <p align="center">
   <a href="mailto:devespinosa1214@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -12,11 +14,6 @@
   <a href="https://github.com/DevEpisolon"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="output.gif" width="560" alt="clip" />
-</p>
-
-<p align="center">🌀🌀🌀</p>
 
 ---
 
@@ -26,14 +23,12 @@
 - 🖥️ IT Coordinator — 500+ end users, and every single one of them has a ticket open right now
 - 🌱 Currently spiraling deeper into full-stack + automation
 - 💬 Ask me about: networking, sysadmin work, Python automation, or LaTeX
-- ⚠️ Fun fact: I've configured more firewalls than I've had cups of coffee. The firewalls are winning.
-
 ---
 
 ### `// TECH STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,c,django,wordpress,nginx,postgres,mysql,mongodb,aws,docker,vim,linux,git,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,django,wordpress,nginx,postgres,mysql,mongodb,aws,docker,vim,linux,git,latex,apple,discord,windows,linux&theme=dark" />
 </p>
 
 <p align="center">
